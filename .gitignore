@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 firebase.json
 google-service-account.json
+venv/
